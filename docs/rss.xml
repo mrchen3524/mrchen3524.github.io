@@ -1,2 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Mrchen3524的博客</title><link>https://mrchen3524.github.io</link><description>普通中学生</description><copyright>Mrchen3524的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://www.helloimg.com/i/2024/11/23/67410ca7e550c.jpg</url><title>avatar</title><link>https://mrchen3524.github.io</link></image><lastBuildDate>Fri, 22 Nov 2024 23:05:55 +0000</lastBuildDate><managingEditor>Mrchen3524的博客</managingEditor><ttl>60</ttl><webMaster>Mrchen3524的博客</webMaster><item><title>测试</title><link>https://mrchen3524.github.io/post/ce-shi.html</link><description>这是第一篇文章。</description><guid isPermaLink="true">https://mrchen3524.github.io/post/ce-shi.html</guid><pubDate>Fri, 22 Nov 2024 23:01:07 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Mrchen3524的博客</title><link>https://mrchen3524.github.io</link><description>普通中学生</description><copyright>Mrchen3524的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://www.helloimg.com/i/2024/11/23/67410ca7e550c.jpg</url><title>avatar</title><link>https://mrchen3524.github.io</link></image><lastBuildDate>Fri, 22 Nov 2024 23:32:10 +0000</lastBuildDate><managingEditor>Mrchen3524的博客</managingEditor><ttl>60</ttl><webMaster>Mrchen3524的博客</webMaster><item><title>下载国家中小学智慧教育平台的教材PDF(登录）</title><link>https://mrchen3524.github.io/post/xia-zai-guo-jia-zhong-xiao-xue-zhi-hui-jiao-yu-ping-tai-de-jiao-cai-PDF%28-deng-lu-%EF%BC%89.html</link><description># 提示：本文章我在之前在其他的平台上传过&#13;
+## 介绍&#13;
+我们都知道，国家中小学智慧教育平台有小学-高中的全部上下册教材（只是正常学校的教材，特殊学校的教材只有上册）&#13;
+但是他们都是不能在本地观看，在2022年8月时我曾经使用全屏授课来下载教材（当时全屏授课直接调用Microsoft Edge PDF Plugin)但是不久变成这样子了（在我的访问下图片显示不出来）&#13;
+![f2eda5a69d20241117151214](https://summer.chgskj.cn/2024/11/f2eda5a69d20241117151214.webp)&#13;
+修复全屏授课下载后的那年到今年8月还可以通过其他的下载工具来下载&#13;
+今年9月由于新版课件的变化（2024版）一个下载器直接无法打开&#13;
+![17c57961fc20241117151431](https://summer.chgskj.cn/2024/11/17c57961fc20241117151431.webp)&#13;
+其他免登录下载器下载的货不对板&#13;
+现在我们还有方法（需要登录）就是使用浏览器检查功能&#13;
+![1e0bba17fb20241117151543](https://summer.chgskj.cn/2024/11/1e0bba17fb20241117151543.webp)&#13;
+## 教程&#13;
+首先先登录账号（没有可以注册&#13;
+然后找到你需要下载的课本（这边以人教小学一年级上册为例）&#13;
+找到课本后点击课本进入预览，然后点击检查&#13;
+![37def2203d20241117151905](https://summer.chgskj.cn/2024/11/37def2203d20241117151905.webp)&#13;
+![8219c0707520241117152151](https://summer.chgskj.cn/2024/11/8219c0707520241117152151.webp)&#13;
+之后找到最大的文件&#13;
+![74d15cd14a20241117152326](https://summer.chgskj.cn/2024/11/74d15cd14a20241117152326.webp)&#13;
+右键那个文件选择在新标签页打开&#13;
+![acab9c893f20241117152354](https://summer.chgskj.cn/2024/11/acab9c893f20241117152354.webp)&#13;
+之后你会看见一个错误页面&#13;
+把网站中的“-private”去掉&#13;
+下面是演示&#13;
+原来：r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/assets/c3e06fe4-c6b3-49cb-8727-4f8ff69bbfbc.pkg/%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E6%95%99%E7%A7%91%E4%B9%A6%20%E6%95%B0%E5%AD%A6%20%E4%B8%80%E5%B9%B4%E7%BA%A7%20%E4%B8%8A%E5%86%8C_1725097504193.pdf&#13;
+修改后：r2-ndr.ykt.cbern.com.cn/edu_product/esp/assets/c3e06fe4-c6b3-49cb-8727-4f8ff69bbfbc.pkg/义务教育教科书%20数学%20一年级%20上册_1725097504193.pdf&#13;
+然后你就可以看到教材封面&#13;
+点击另存为图标，选择一个位置（我放在桌面）然后点击“保存(S)”&#13;
+然后就开始下载文件&#13;
+下载完成后打开文件，如果是你下载的文件证明下载成功&#13;
+## 最后言&#13;
+本文章我本人在夏雨社区发布过，文章链接是https://blog.chgskj.cn/1087.html。</description><guid isPermaLink="true">https://mrchen3524.github.io/post/xia-zai-guo-jia-zhong-xiao-xue-zhi-hui-jiao-yu-ping-tai-de-jiao-cai-PDF%28-deng-lu-%EF%BC%89.html</guid><pubDate>Fri, 22 Nov 2024 23:31:42 +0000</pubDate></item><item><title>测试</title><link>https://mrchen3524.github.io/post/ce-shi.html</link><description>这是第一篇文章。</description><guid isPermaLink="true">https://mrchen3524.github.io/post/ce-shi.html</guid><pubDate>Fri, 22 Nov 2024 23:01:07 +0000</pubDate></item></channel></rss>
